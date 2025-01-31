@@ -1,9 +1,9 @@
 <?php
-
+//HOLLAAAA V2
 $servidor = "localhost";
 $usuario = "root";
 $clave = "";
-$base_datos = "aeromexico"; // Cambia por el nombre correcto de tu BD
+$base_datos = "aeromexico"; // Cambia por el nomabre correcto de tu BD
 
 $conexion = new mysqli($servidor, $usuario, $clave, $base_datos);
 
